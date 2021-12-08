@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nik Muhammad Izzuan
 - 👀 I’m interested in Application and Game developments
-- 🌱 I’m currently learning various blockchain development
+- 🌱 I’m currently learning Blockchain development
 - 📫 How to reach me nikizzuan@gmail.com
 
 <!---
